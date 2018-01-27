@@ -5,7 +5,7 @@ All the descriptions, analysis and conclusions about the Genetic Algorithm, incl
 
 This project was developed in a group of 4 participants, all students of the University of São Paulo:
 
-Thiago Mayllart Macedo Silva
-Letícia Gomes de Macedo
-Lucas Sant'ana
-Adriano Vicente Froncillo
+1. Thiago Mayllart Macedo Silva
+2. Letícia Gomes de Macedo
+3. Lucas Sant'ana
+4. Adriano Vicente Froncillo
